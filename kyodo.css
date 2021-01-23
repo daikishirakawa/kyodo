@@ -72,6 +72,9 @@ h2 {
     margin-top: 50px;
 
 }
+.learn h2 {
+    padding: 30px;
+}
 .about p {
     padding: 30px;
 }
@@ -88,8 +91,32 @@ h2 {
     padding: 50px;
     margin: 20px 100px;
 }
-.learn p {
+.merit {
+    text-align: center;
+    background-color: rgb(248, 240, 168);
+    padding-bottom: 60px;
 
+}
+.merit h2 {
+    padding: 30px;
+}
+.merit img {
+    height: 100px;
+}
+.teacher {
+    text-align: center;
+    margin: 0 100px 60px 100px;
+}
+.teacher h2 {
+    padding: 60px;
+}
+.teacher p {
+
+}
+.teacher img {
+    height: 300px;
+    padding-bottom: 50px;
+   
 }
 
 /* 以下縞下線のCSS */
